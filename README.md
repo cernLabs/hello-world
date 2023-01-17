@@ -1,2 +1,1 @@
-# hello-world
-just another repository
+# hello-world is a collaborative test between two developers
